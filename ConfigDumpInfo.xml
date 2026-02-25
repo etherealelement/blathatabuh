@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Продукты" id="d9de48ef-bb0a-4d42-9e73-030765601d64" configVersion="20f89f98ac8fa64898e00279d143922000000000">
+			<Metadata name="AccumulationRegister.Продукты.Resource.Количество" id="9d36c50f-4a4a-4194-9234-c4a7d382174b"/>
+			<Metadata name="AccumulationRegister.Продукты.Dimension.Продукт" id="fabc3251-28dd-414f-8db5-4fe292e8098d"/>
+		</Metadata>
+		<Metadata name="Catalog.Магазины" id="10edf3e9-86f7-4f27-a91a-ce5cc13e804b" configVersion="3ab9cc9caf4aa14599ab457e0cc2046700000000"/>
+		<Metadata name="Catalog.Сигареты" id="ce1226d8-938d-439f-b10e-c38e63426e40" configVersion="9be5f9b0d50b994583c157ad0755aa4d00000000"/>
+		<Metadata name="Catalog.Хавчик" id="9d86d669-1140-406f-9ba7-08b3341ada7e" configVersion="fc8a68e289863f458075381a80464c8d00000000"/>
+		<Metadata name="Configuration.БлатХата" id="1b74ab89-20c9-4142-bff9-f4448d77bec3" configVersion="27d96fa6d0cbf24e9ae47e7f14f2113800000000"/>
+		<Metadata name="Configuration.БлатХата.ClientApplicationInterface" id="3ed50e8a-0a8b-4c48-8b70-85f40df06f8d.b" configVersion="d63ebab8a8045645a81991742934eec700000000"/>
+		<Metadata name="Document.Дорога" id="c44925f3-1f98-4edc-9400-c5391c6a9e77" configVersion="27db5c914e25694796821d3183ab0a2800000000">
+			<Metadata name="Document.Дорога.TabularSection.Продукты.Attribute.Продукт" id="0cefa4f2-5112-45c3-a3bb-ddda4eda696f"/>
+			<Metadata name="Document.Дорога.TabularSection.Продукты.Attribute.Колличество" id="2a9bcfe5-abcf-4a83-8298-b8849466c913"/>
+			<Metadata name="Document.Дорога.Attribute.Магазин" id="36c1894d-b7cc-4644-b795-ae43243b787a"/>
+			<Metadata name="Document.Дорога.TabularSection.Продукты" id="48000a9a-a9d2-4c52-b606-63d3f62026fc"/>
+			<Metadata name="Document.Дорога.Attribute.СуммаДокумента" id="6aa30447-c216-4cf5-976d-f92a26f22960"/>
+			<Metadata name="Document.Дорога.TabularSection.Продукты.Attribute.Цена" id="e793b3b9-4ba6-4b4e-a1aa-6f6cf059fd8e"/>
+		</Metadata>
+		<Metadata name="Document.Дорога.ObjectModule" id="c44925f3-1f98-4edc-9400-c5391c6a9e77.0" configVersion="e491e99cc918534c8f7977711c46400500000000"/>
+		<Metadata name="Language.Русский" id="5746bf40-16d8-4a98-9620-8d281f0a42c6" configVersion="8e822d02d8ffe1468b59e363b65d91f100000000"/>
+		<Metadata name="Subsystem.Общаг" id="830411bc-dbd1-4b1c-876e-d881799fc6c0" configVersion="f2da11f3655c2745a7232ee6803beef900000000"/>
+		<Metadata name="Subsystem.Общаг.Subsystem.Документы" id="cd0a518b-1391-466b-92c1-8b7477be508d" configVersion="2ec9aa9f8ffb094facf879732191107800000000"/>
+		<Metadata name="Subsystem.Общаг.Subsystem.Регистры" id="5788d9f3-5519-4cd0-a210-10f650c77e48" configVersion="8324bf4c3c0e68439487498a236d435c00000000"/>
+		<Metadata name="Subsystem.Общаг.Subsystem.Регистры.CommandInterface" id="5788d9f3-5519-4cd0-a210-10f650c77e48.1" configVersion="c7340807d0b31241864d7a199aaff2f800000000"/>
+		<Metadata name="Subsystem.Общаг.Subsystem.Справочники" id="4db8937a-3659-4012-bd8b-b08179167c5d" configVersion="bf8e17739104ef45a4ce9a5958977ec400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
