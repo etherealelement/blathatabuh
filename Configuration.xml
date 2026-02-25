@@ -255,7 +255,11 @@
 			<Catalog>Хавчик</Catalog>
 			<Catalog>Магазины</Catalog>
 			<Document>Дорога</Document>
+			<Document>Потребление</Document>
+			<Report>ОстаткиПродуктов</Report>
 			<AccumulationRegister>Продукты</AccumulationRegister>
+			<AccumulationRegister>Затраты</AccumulationRegister>
+			<AccumulationRegister>Курево</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
