@@ -251,15 +251,22 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Общаг</Subsystem>
+			<Constant>Константа1</Constant>
 			<Catalog>Сигареты</Catalog>
 			<Catalog>Хавчик</Catalog>
 			<Catalog>Магазины</Catalog>
+			<Catalog>Изделия</Catalog>
+			<Catalog>Сырье</Catalog>
 			<Document>Дорога</Document>
 			<Document>Потребление</Document>
+			<Document>Изготовление</Document>
 			<Report>ОстаткиПродуктов</Report>
+			<InformationRegister>СоставИзделия</InformationRegister>
 			<AccumulationRegister>Продукты</AccumulationRegister>
 			<AccumulationRegister>Затраты</AccumulationRegister>
 			<AccumulationRegister>Курево</AccumulationRegister>
+			<AccumulationRegister>Сырье</AccumulationRegister>
+			<AccumulationRegister>Изделия</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

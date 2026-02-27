@@ -19,6 +19,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продукты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Затраты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Курево</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Сырье</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Изделия</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СоставИзделия</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
